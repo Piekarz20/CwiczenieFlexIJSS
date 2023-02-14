@@ -1,0 +1,32 @@
+body * {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+form {
+	box-shadow: 0 0 4px 2px #ddd;
+	margin: 1rem;
+	padding: 1rem;
+}
+fieldset {
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	margin: 1rem;
+	padding: 1rem;
+	border-radius: 1rem;
+}
+label {
+	display: block;
+	margin: 0.5rem 0;
+}
+div {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+footer {
+	font-size: 60%;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	margin-top: 20px;
+}
